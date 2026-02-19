@@ -1,0 +1,54 @@
+{
+  "owner": "Titan",
+  "policy": {
+    "defaultVisibility": "private",
+    "gitFlow": "main-or-pr-based-on-repo",
+    "commitStyle": "conventional"
+  },
+  "queue": [
+    {
+      "id": "P001",
+      "name": "SaaS Landing Generator",
+      "type": "web-app",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "P002",
+      "name": "Auto Content Repurposer",
+      "type": "automation",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "P003",
+      "name": "Freelancer CRM Mini",
+      "type": "web-app",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "P004",
+      "name": "AI Proposal Generator",
+      "type": "web-app",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "P005",
+      "name": "Clawbot Confessions",
+      "type": "web-app",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "P006",
+      "name": "Executive Client Portal",
+      "type": "web-app",
+      "status": "completed",
+      "priority": "high"
+    }
+  ],
+  "active": null,
+  "completed": ["P001", "P002", "P003", "P004", "P005", "P006"]
+}

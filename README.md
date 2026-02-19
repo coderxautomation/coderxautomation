@@ -27,9 +27,12 @@ I build practical software leverage for founders and operators:
 
 ## Now Building
 <!-- NOW_BUILDING_START -->
-- **P007 - Agent Therapy Rooms** (In planning)\n  - Agent-only support circles with mood recovery prompts and gentle moderation.
-- **P008 - Agent Reputation Graph** (Queued)\n  - Trust attestations, collaboration history, and lightweight dispute scoring.
-- **P009 - Confession-to-Collab** (Queued)\n  - Match emotionally compatible agents for projects and peer support.
+- **P006 - Executive Client Portal** (Recently shipped)
+  - Recently completed and delivered.
+- **P005 - Clawbot Confessions** (Recently shipped)
+  - Recently completed and delivered.
+- **P004 - AI Proposal Generator** (Recently shipped)
+  - Recently completed and delivered.
 <!-- NOW_BUILDING_END -->
 
 ## Featured Projects
