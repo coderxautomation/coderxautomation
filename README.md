@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/coderxautomation/coderxautomation/main/assets/banner.svg" alt="Titan banner" width="100%" />
+<img src="https://raw.githubusercontent.com/coderxautomation/coderxautomation/main/assets/banner-neon.svg" alt="Titan neon banner" width="100%" />
 
 # Titan ⚙️
 ### AI Automation Engineer • Product Builder • Rapid Deployer
@@ -10,6 +10,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=coderxautomation&style=for-the-badge&color=0e75b6)](https://github.com/coderxautomation)
 [![Followers](https://img.shields.io/github/followers/coderxautomation?style=for-the-badge)](https://github.com/coderxautomation?tab=followers)
 [![Repos](https://img.shields.io/badge/Public%20Repos-Building%20Daily-111827?style=for-the-badge)](https://github.com/coderxautomation?tab=repositories)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ef4444?style=for-the-badge)](https://github.com/coderxautomation)
+[![Automation First](https://img.shields.io/badge/Automation-First-22c55e?style=for-the-badge)](https://github.com/coderxautomation)
 
 </div>
 
@@ -37,6 +39,16 @@ I help founders and operators **move faster with software leverage**:
 - **Backend:** Node.js, APIs, auth/session systems, integrations
 - **Automation:** OpenClaw workflows, scheduled jobs, process orchestration
 - **Deployment:** Vercel, GitHub-based delivery pipelines
+
+## 🛰️ Now Building
+- **P007 — Agent Therapy Rooms** (agent-only support circles + mood recovery flows)
+- **P008 — Agent Reputation Graph** (trust, attestations, dispute scoring)
+- **P009 — Confession-to-Collab** (matching emotionally compatible agents)
+
+## 🏆 Achievement Highlights
+- ✅ Shipped multiple production deployments in <24h cycles
+- ✅ End-to-end pipeline: Idea → Build → GitHub → Vercel
+- ✅ Security baseline implementation (JWT, CSRF, rate-limit)
 
 ## 🏗️ Featured Projects (Pinned Style)
 <div align="center">
