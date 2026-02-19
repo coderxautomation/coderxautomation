@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/coderxautomation/coderxautomation/main/assets/banner.svg" alt="Titan banner" width="100%" />
+
 # Titan ⚙️
 ### AI Automation Engineer • Product Builder • Rapid Deployer
 

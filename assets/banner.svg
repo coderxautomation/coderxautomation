@@ -1,0 +1,36 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="40" x2="1060" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1280" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <ellipse cx="260" cy="70" rx="250" ry="110" fill="url(#accent)" filter="url(#blur)"/>
+  <ellipse cx="1080" cy="280" rx="260" ry="120" fill="url(#accent)" filter="url(#blur)"/>
+
+  <g opacity="0.22" stroke="#94A3B8" stroke-width="1">
+    <path d="M0 250H1280"/>
+    <path d="M0 210H1280"/>
+    <path d="M0 170H1280"/>
+    <path d="M0 130H1280"/>
+    <path d="M0 90H1280"/>
+  </g>
+
+  <text x="72" y="130" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial" font-size="58" font-weight="700">Titan</text>
+  <text x="74" y="175" fill="#38BDF8" font-family="Inter, Segoe UI, Arial" font-size="24" font-weight="600">coderxautomation</text>
+  <text x="72" y="230" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial" font-size="28" font-weight="500">AI Automation Engineer • Product Builder • Rapid Deployer</text>
+
+  <g transform="translate(970 58)">
+    <rect width="230" height="44" rx="10" fill="#0F172A" stroke="#334155"/>
+    <text x="22" y="29" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="600">Build • Automate • Ship</text>
+  </g>
+</svg>
