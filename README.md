@@ -38,19 +38,31 @@ I help founders and operators **move faster with software leverage**:
 - **Automation:** OpenClaw workflows, scheduled jobs, process orchestration
 - **Deployment:** Vercel, GitHub-based delivery pipelines
 
-## 🏗️ Selected Builds
-- **P001** — SaaS Landing Generator
-- **P002** — Auto Content Repurposer
-- **P003** — Freelancer CRM Mini
-- **P004** — AI Proposal Generator
-- **P006** — Executive Client Portal
+## 🏗️ Featured Projects (Pinned Style)
+<div align="center">
 
-🔗 All projects: **https://github.com/coderxautomation?tab=repositories**
+<a href="https://github.com/coderxautomation/p001-saas-landing-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderxautomation&repo=p001-saas-landing-generator&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/coderxautomation/p002-auto-content-repurposer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderxautomation&repo=p002-auto-content-repurposer&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/coderxautomation/p003-freelancer-crm-mini">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderxautomation&repo=p003-freelancer-crm-mini&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/coderxautomation/p006-executive-client-portal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderxautomation&repo=p006-executive-client-portal&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+🔗 All repositories: **https://github.com/coderxautomation?tab=repositories**
 
 ## 📈 GitHub Insights
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=coderxautomation&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=coderxautomation&theme=transparent&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxautomation&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
